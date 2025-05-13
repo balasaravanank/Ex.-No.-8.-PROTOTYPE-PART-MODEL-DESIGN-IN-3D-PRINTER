@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Empd Glass 1](https://github.com/user-attachments/assets/7835379a-c51e-4eda-864f-00d4c686b2d5)
+
+![Empd Glass 2](https://github.com/user-attachments/assets/882ce0f0-fb35-4748-8814-6cc62c06f1a3)
+
+
+### Name: BALA SARAVANAN K
+### Register Number: 24900611
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
